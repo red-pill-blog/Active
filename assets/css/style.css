@@ -506,7 +506,7 @@ h1.post-title, h1#posts { font-size: 250%; }
 .post-content p, .post-content li { font-size: 105%; color: #515151; }
 
 /*Add logo next to site title */
-.site-title::before { content: url("assetsigfavicon.png"); display: inline-block; position: relative; margin-bottom: 0; margin-right: 15px; margin-top: 17px; }
+.site-title::before { content: url("/images/bigfavicon.png"); display: inline-block; position: relative; margin-bottom: 0; margin-right: 15px; margin-top: 17px; }
 
 /*header.site-header, div.wrapper {min-height: 150px; line-height: 125px;  vertical-align: bottom; } */
 /* Add header background */
