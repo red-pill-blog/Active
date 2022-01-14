@@ -10,6 +10,15 @@
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
 
+/*Add logo next to site title */
+.site-title::before {
+    content: url("/images/bigfavicon.png");
+    display: inline-block;
+    position: relative;
+    margin-bottom: 0;
+    margin-right: 15px;
+    margin-top: 17px;
+}
 
 header.site-header {
     border-top: 8px solid #424242;
@@ -56,15 +65,7 @@ h1.post-title, h1#posts   { font-size: 250%;
     color: #515151;
  }
 
-/*Add logo next to site title */
-.site-title::before {
-    content: url("/images/bigfavicon.png");
-    display: inline-block;
-    position: relative;
-    margin-bottom: 0;
-    margin-right: 15px;
-    margin-top: 17px;
-}
+
 
 /*header.site-header, div.wrapper {min-height: 150px;
                                  line-height: 125px; 
