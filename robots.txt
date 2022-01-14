@@ -1,1 +1,1 @@
-Sitemap: https://red-pill-blog.github.io/Active/sitemap.xml
+Sitemap: https://red-pill.blog/sitemap.xml
