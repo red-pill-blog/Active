@@ -15,7 +15,7 @@
 
 /*Add logo next to site title */
 .site-title::before {
-    content: url("images\bigfavicon.png");
+    content: url("images\favicon.ico");
     display: inline-block;
     position: relative;
     margin-bottom: 0;
