@@ -8,6 +8,4 @@ permalink: /about/
 
 ![]({{site.baseurl}}/images/rp.svg#rpimage)
 
-![]({{site.baseurl}}/images/bigfavicon.png#rpimage)
-
 <p style="text-align: center;">"You take the <strong><span style="color: rgb(241, 0, 0);">red pill</span></strong>...  you stay in Wonderland and I show you how deep the rabbit hole goes."</p>
