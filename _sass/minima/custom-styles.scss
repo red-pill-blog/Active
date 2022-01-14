@@ -10,9 +10,11 @@
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
 
+/*https://github.com/red-pill-blog/Active/blob/master/images/bigfavicon.png?raw=true*/
+
 /*Add logo next to site title */
 .site-title::before {
-    content: url("/images/bigfavicon.png");
+    content: url("https://github.com/red-pill-blog/Active/blob/master/images/bigfavicon.png");
     display: inline-block;
     position: relative;
     margin-bottom: 0;
