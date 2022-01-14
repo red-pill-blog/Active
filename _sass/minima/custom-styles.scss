@@ -12,9 +12,10 @@
 
 /*https://github.com/red-pill-blog/Active/blob/master/images/bigfavicon.png?raw=true*/
 
+
 /*Add logo next to site title */
 .site-title::before {
-    content: url("https://github.com/red-pill-blog/Active/blob/master/images/bigfavicon.png");
+    content: url("{{site.baseurl}}/images/bigfavicon.png");
     display: inline-block;
     position: relative;
     margin-bottom: 0;
