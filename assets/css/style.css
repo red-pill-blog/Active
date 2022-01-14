@@ -484,8 +484,9 @@ pre code { font-size: 15px !important; }
 
 p code { font-size: 19px; }
 
+/*https://github.com/red-pill-blog/Active/blob/master/images/bigfavicon.png?raw=true*/
 /*Add logo next to site title */
-.site-title::before { content: url("/images/bigfavicon.png"); display: inline-block; position: relative; margin-bottom: 0; margin-right: 15px; margin-top: 17px; }
+.site-title::before { content: url("https://github.com/red-pill-blog/Active/blob/master/images/bigfavicon.png"); display: inline-block; position: relative; margin-bottom: 0; margin-right: 15px; margin-top: 17px; }
 
 header.site-header { border-top: 8px solid #424242; min-height: 90px; border-bottom: 2px solid #7a7a7a; line-height: unset; }
 
